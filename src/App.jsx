@@ -12,7 +12,7 @@ import Footer from './components/Footer'
 export default function App() {
   return (
     <div className="min-h-screen bg-surface">
-      <main className="w-[70%] sm:w-[43%] mx-auto px-4 py-6 space-y-3">
+      <main className="w-[85%] sm:w-[43%] mx-auto px-4 py-6 space-y-3">
         <TopBar />
         <Hero />
         <Overview />
